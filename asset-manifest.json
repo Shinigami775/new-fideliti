@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5db0c12.css",
+    "main.js": "/static/js/main.c19415c0.js",
+    "static/media/bit.jpg": "/static/media/bit.a42eb1a14e2c195394b1.jpg",
+    "static/media/top_img.png": "/static/media/top_img.893843e9f25c860bbb5c.png",
+    "static/media/roll.jpg": "/static/media/roll.f936805ef60c73f0138e.jpg",
+    "static/media/cy.png": "/static/media/cy.25fe3e43ecf5268e3dbf.png",
+    "static/media/defi.png": "/static/media/defi.9fa8964f1486da3e6a41.png",
+    "static/media/spen.png": "/static/media/spen.86468c6dfd04f6a053fc.png",
+    "static/media/coin98.png": "/static/media/coin98.c8fe376aa27b7b271099.png",
+    "static/media/zill.png": "/static/media/zill.8390d7aac1f72acc8e1c.png",
+    "static/media/bnb.jpg": "/static/media/bnb.77af45b4487cad3df668.jpg",
+    "static/media/us.jpg": "/static/media/us.e82743be0222c25caaac.jpg",
+    "static/media/maiar.png": "/static/media/maiar.7e97d88b29725d3a25bd.png",
+    "static/media/mathwallet.png": "/static/media/mathwallet.9793f84767418512180a.png",
+    "static/media/TRN.jpeg": "/static/media/TRN.3152b48739b7723be3eb.jpeg",
+    "static/media/meet.jpeg": "/static/media/meet.b213d8149b4147f93c57.jpeg",
+    "static/media/17_mrrhur.png": "/static/media/17_mrrhur.d6ce053a5b356da21631.png",
+    "static/media/btc-5.jpg": "/static/media/btc-5.5fda5fd645d372ceef3f.jpg",
+    "static/media/Tw.jpg": "/static/media/Tw.ef293754e4704bd68482.jpg",
+    "index.html": "/index.html",
+    "main.c5db0c12.css.map": "/static/css/main.c5db0c12.css.map",
+    "main.c19415c0.js.map": "/static/js/main.c19415c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5db0c12.css",
+    "static/js/main.c19415c0.js"
+  ]
+}
